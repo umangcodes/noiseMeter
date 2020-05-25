@@ -1,0 +1,13 @@
+version 1.0 will cover following things:
+
+- basic components with parameters
+- connections with any electronic faults
+- nets defined
+- net classes defined
+- title block with sheet name
+
+
+version 2.0
+
+- version 1.0
+- ERC with user defined rules
